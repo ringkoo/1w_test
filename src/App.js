@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 
   const [box, setBox] = useState([
-    { id: 1, text: "react를 배워봅시다." },
+    { id: 1, text: "서대식과 react를 배워봅시다." },
   ])
 
   const [text, setText] = useState("")
